@@ -1,2 +1,5 @@
 mohon maaf karena saya kurang paham bagaimana cara upload file yang lebih besar dari 25 mb di github,
 jadi saya upload file rarnya saja di github
+
+disini saya juga memberikan link google drive apabila di github tidak bisa di download:
+https://drive.google.com/drive/folders/1Iu1UBJsKGvqcZ0UMQ6D39PJcQMDyW5L1?usp=sharing
